@@ -1,6 +1,6 @@
 
 ## Crud em PHP 7 para cadastro de livros utilizando MySql Serve.
-Utilizado EC2 da amazon para a hospedagem do site e utilizado o serviço do Googlr Cloud Plataform para avaliação de desempenho, custos e facilidade de uso. 
+Utilizado para a hospedagem o EC2 da amazon e o Google Cloud Plataform para avaliação de desempenho, custos e facilidade de uso. 
 
 
 
