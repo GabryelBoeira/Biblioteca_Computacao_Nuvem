@@ -3,6 +3,8 @@
 Utilizado para a hospedagem o EC2 da amazon e o Google Cloud Plataform para avaliação de desempenho, custos e facilidade de uso, Realizado em grupo integrantes Gabryel Johnatan Boeira, Marcelo Henrique Cezário e Yahgo Batista.
 
 
+\*\* Esta é uma Disciplina Concluida \*\*
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
